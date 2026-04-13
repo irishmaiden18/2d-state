@@ -1,4 +1,5 @@
 import Counter from "./components/Counter"
+import FruitList from "./components/FruitList"
 import Hello from "./components/Hello"
 import Login from "./components/Login"
 
@@ -10,6 +11,7 @@ function App() {
       <Counter/>
       <Hello/>
       <Login/>
+      <FruitList/>
     </>
   )
 }
